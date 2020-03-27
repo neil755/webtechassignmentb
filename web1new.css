@@ -1,0 +1,25 @@
+
+body{
+ background-color:#ffffff;
+ 
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+ font-size:20px;
+ margin: 30px;
+
+}
+
+
+.container{
+    
+    width: 40%;
+    margin: auto;
+   
+
+
+}
+.Box1{
+  background-color: darkgrey;
+  
+  border: 10px black;
+  padding: 30px;
+  }
